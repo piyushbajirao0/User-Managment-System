@@ -1,0 +1,16 @@
+Summary of Design Decisions
+
+Angular Framework: Chosen for building single-page applications.
+
+Reactive Forms: Used for better form handling.
+
+Components: 
+1) Nav: used for nav bar.
+2) user-list: user to show all user data and applications.
+3) user-upset: user to create and edit user.
+
+Routing: Utilized Angular's routing for navigation between user-upsert and user-list components.
+
+Service: Implemented a UserService to manage user data and communicate between components.
+
+Styling: Applied basic styling using Bootstrap for a clean and visually appealing UI.
